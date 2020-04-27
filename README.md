@@ -5,7 +5,7 @@
 {
   "type": "service_account",
   "project_id": "rn-bot-uaibqi",
-  "private_key_id": "e248bfceac58186ca32a94a9f4cfdfd219553130",
+  "private_key_id": "your private key",
   "private_key": "-----BEGIN PRIVATE KEY-----
   "client_email": "dialogflow-ytsprv@rn-bot-uaibqi.iam.gserviceaccount.com",
   "client_id": "114164032615372128876",
