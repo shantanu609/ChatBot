@@ -1,6 +1,5 @@
 # ChatBot
 <p> Built a custom ChatBot for a third party website by modeling the bot and then invoking using Googles DialogFlow API .</p>
-<p> Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/940/940207.svg" width="13"/> <b>Fresno, California</b>. </p>
 <!--
 **shantanu609/shantanu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
